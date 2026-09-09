@@ -45,3 +45,6 @@ A smaller AI assistant project built as an experimental implementation.
 * 💼 LinkedIn — Prasbin Dhungana
 * 🌐 Portfolio — Coming soon
 * 📧 Email — Available on request
+---
+
+> Building. Learning. Improving. One project at a time.
