@@ -23,3 +23,20 @@ I'm currently focused on building software, exploring AI, and turning ideas into
 * Generative AI
 * Python & Backend Development
 * Building AI-powered applications
+## 🚀 Featured Projects
+
+### 🤖 BERU-Main
+
+My main AI assistant project, focused on building a practical and intelligent personal AI system.
+
+### 🌐 Paradise
+
+A real-world web project deployed on Vercel.
+
+### 🌐 The Desire Group
+
+A web project built and deployed on Vercel.
+
+### 🧠 BERU — Your AI Friend
+
+A smaller AI assistant project built as an experimental implementation.
