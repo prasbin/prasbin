@@ -40,3 +40,8 @@ A web project built and deployed on Vercel.
 ### 🧠 BERU — Your AI Friend
 
 A smaller AI assistant project built as an experimental implementation.
+## 📫 Connect With Me
+
+* 💼 LinkedIn — Prasbin Dhungana
+* 🌐 Portfolio — Coming soon
+* 📧 Email — Available on request
